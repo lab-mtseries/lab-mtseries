@@ -1,2 +1,2 @@
-![](https://github-readme-streak-stats.herokuapp.com/?user=lab-mtseries&theme=default&hide_border=false&card_width=607)
+![](https://github-readme-streak-stats.herokuapp.com/?user=lab-mtseries&hide_border=false&card_width=607)
 
